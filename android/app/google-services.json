@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482545009297",
+    "project_id": "connectcall-project",
+    "storage_bucket": "connectcall-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482545009297:android:213651267204881b5db530",
+        "android_client_info": {
+          "package_name": "com.connectcall.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxG96OQJW2o7mSCArOV-A-DAj-iCQeZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
